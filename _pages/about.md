@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alannah Shelby Rivers,  PhD candidate"
+title: "Alannah Shelby Rivers"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
