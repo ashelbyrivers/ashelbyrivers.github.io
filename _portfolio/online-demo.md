@@ -1,4 +1,5 @@
 title: "Online Teaching Portfolio (Research Methods)"
+permalink: /portfolio/online-demo
 excerpt: Online portfolio demo for an introductory Research Methods class, developed through semester-long Designing for Online Teaching Success workshop.
 collection: portfolio
 ---
