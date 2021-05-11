@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alannah Shelby Rivers"
+title                    : "Alannah Shelby Rivers, Ph.D."
 title_separator          : "-"
-name                     : &name "Alannah Shelby Rivers"
-description              : &description "Relationships/health PhD candidate at Baylor University"
+name                     : &name "Alannah Shelby Rivers, Ph.D."
+description              : &description "Researcher with interests in close relationships, physical and mental health disparities, and psychometrics"
 url                      : https://ashelbyrivers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashelbyrivers/ashelbyrivers.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alannah Shelby Rivers"
+  name             : "Alannah Shelby Rivers, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "PhD candidate specializing in the intersection of close relationships and health, with expertise in psychometrics and advanced statistical techniques."
+  bio              : "Researcher specializing in the intersection of close relationships and health, with expertise in psychometrics and advanced statistical techniques."
   location         : "Waco, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Rivers%20AS[Author]"
