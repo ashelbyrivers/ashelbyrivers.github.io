@@ -8,4 +8,5 @@ date: 2021-05-01
 location: "Waco, Texas"
 ---
 
-Co-designed online asynchronous Cognition course.
+Co-designed online asynchronous Cognition course. (Primary Teacher of Record).
+
